@@ -14,7 +14,6 @@ Spread sheets are important data science - They are used by EVERYBODY - and ever
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. SAVE YOURSELF HOURS !!! 
 
-![Code Logo](code_sample.png)
 
 ## Features
 
@@ -47,6 +46,9 @@ To get started with Remote Process Automation for Excel, follow these steps:
 6. You must configure your congiguration file to iidentify the your logo file location
 6. You must designate which files or folders to format 
 7. Test - Test - Test 
+
+
+![Code Logo](code_sample.png)
 
 
 
