@@ -10,7 +10,7 @@ Makes excel files pretty, more functional , and easier to use.  This one solutio
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
