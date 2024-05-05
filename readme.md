@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Remote Process Automation Excel - Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
 Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
 
@@ -9,8 +11,6 @@ Welcome to the solution **Remote Process Automation Excel** - an example for you
 Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
