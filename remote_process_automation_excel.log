@@ -1,0 +1,4 @@
+2024-05-22 21:52:53,498 - INFO - START remote_process_automation_excel =============================================
+2024-05-22 21:52:53,498 - INFO - START remote_process_automation_excel Start Time = 2024-05-22 21:52:53
+2024-05-22 21:52:53,498 - INFO - remote_process_automation_excel Step 0 - Initialize the configuration file parser
+2024-05-22 21:52:53,531 - INFO - Found 64 excel files in directory:C:\working_directory\excel
