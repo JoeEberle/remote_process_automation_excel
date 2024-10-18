@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Remote Process Automation Excel - Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
-Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Remote Process Automation Excel - Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!![Image image_filename](code.png)
 ## Overview of RPA for Excel 
 
 **Remote process automation of Excel** can quickly and easily transform dull spreadsheets into professional-looking reports by applying consistent formatting, adding charts, and generating summaries with just a few clicks. 
@@ -31,9 +24,7 @@ Remote Process Automation (RPA) for Excel offers a technological solution that a
 - **Cost Efficiency:** By automating repetitive tasks, businesses can reduce the need for extensive manual labor, leading to cost savings and better resource allocation.
 
 In conclusion, Remote Process Automation for Excel is a powerful tool that enhances the efficiency and effectiveness of spreadsheet management. It offers significant benefits to a wide range of users, from business professionals to administrative staff, by saving time, ensuring consistency, and improving the overall quality of data presentation.
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Remote Process Automation Excel** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -48,6 +39,9 @@ To get started with the **Remote Process Automation Excel** solution repository,
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -57,13 +51,11 @@ To get started with the **Remote Process Automation Excel** solution repository,
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](excel_formatting_bot.png)  <br>![additional_image](joe_logo.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
