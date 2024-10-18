@@ -4,7 +4,25 @@
 
 ## Makes excel files pretty, more functional , and easier to use.  This one solution saves hours !!!!
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Overview of RPA for Excel 
 
 **Remote process automation of Excel** can quickly and easily transform dull spreadsheets into professional-looking reports by applying consistent formatting, adding charts, and generating summaries with just a few clicks. 
@@ -30,7 +48,13 @@ Remote Process Automation (RPA) for Excel offers a technological solution that a
 - **Cost Efficiency:** By automating repetitive tasks, businesses can reduce the need for extensive manual labor, leading to cost savings and better resource allocation.
 
 In conclusion, Remote Process Automation for Excel is a powerful tool that enhances the efficiency and effectiveness of spreadsheet management. It offers significant benefits to a wide range of users, from business professionals to administrative staff, by saving time, ensuring consistency, and improving the overall quality of data presentation.
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
