@@ -24,7 +24,7 @@ Remote Process Automation (RPA) for Excel offers a technological solution that a
 - **Cost Efficiency:** By automating repetitive tasks, businesses can reduce the need for extensive manual labor, leading to cost savings and better resource allocation.
 
 In conclusion, Remote Process Automation for Excel is a powerful tool that enhances the efficiency and effectiveness of spreadsheet management. It offers significant benefits to a wide range of users, from business professionals to administrative staff, by saving time, ensuring consistency, and improving the overall quality of data presentation.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
