@@ -26,6 +26,9 @@ Remote Process Automation (RPA) for Excel offers a technological solution that a
 In conclusion, Remote Process Automation for Excel is a powerful tool that enhances the efficiency and effectiveness of spreadsheet management. It offers significant benefits to a wide range of users, from business professionals to administrative staff, by saving time, ensuring consistency, and improving the overall quality of data presentation.
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Remote Process Automation Excel** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -40,7 +43,7 @@ To get started with the **Remote Process Automation Excel** solution repository,
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
